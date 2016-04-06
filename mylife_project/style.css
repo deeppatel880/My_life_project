@@ -23,7 +23,7 @@ body{
 }
 
 .nav a:hover{
-	transition-duration:0.5s;
+	transition-duration:0.4s;
 	background: #FFF;
 	color: #3498db;
 	padding: 25px;
